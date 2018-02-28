@@ -17,7 +17,7 @@ else if (right)
 //change scale
 if (keyboard_check(vk_space))
 {
-	squash_stretch(1.5, 1.5);
+	squash_stretch(2.5, 2.5);
 }
 xScale = approach(xScale, 1, 0.03);
 yScale = approach(yScale, 1, 0.03);

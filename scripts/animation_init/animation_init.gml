@@ -1,4 +1,4 @@
-// initialize variables for drawing and animation.
+// initialize variables for drawing and animation.  Used in Draw_Sprite_Ext()
 
 // drawing
 sprite = sprite_index;

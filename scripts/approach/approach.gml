@@ -1,10 +1,14 @@
-//approach(start, end, shift);
+//approach(start, end, shift);  Approaches a value by a certain amount until it gets to the value.
 
-if(argument0 < argument1)
+startApproach = argument0;
+endApproach = argument1;
+shiftBy = argument2;
+
+if(startApproach < endApproach)
 {
-	return min(argument0 + argument2, argument1);
+	return min(startApproach + shiftBy, endApproach);
 }
 else
 {
-	return max(argument0 - argument2, argument1);
+	return max(startApproach - shiftBy, endApproach);
 }
