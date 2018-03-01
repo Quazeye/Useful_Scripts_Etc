@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "05a0aee4-d51c-4c2b-81f6-8cbc21e2b0bb",
+            "Value": {
+                "id": "0e9f0924-abe0-458f-ad19-f6b7a7262e78",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sprPlayer_Crouch\/sprPlayer_Crouch.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "11c04599-b6ae-42ff-bc6d-a9b77ad0d5fb",
             "Value": {
                 "id": "45f6405b-d288-4fcc-a7b6-c320ad417639",
