@@ -1,0 +1,2 @@
+///init
+enum_init();
