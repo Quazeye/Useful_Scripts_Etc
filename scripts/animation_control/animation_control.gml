@@ -1,5 +1,5 @@
 xScale = approach(xScale, 1, 0.03);
-yScale = approach(yScale, 1, 0.02);
+yScale = approach(yScale, 1, 0.03);
 
 // animation control
 switch currentState 

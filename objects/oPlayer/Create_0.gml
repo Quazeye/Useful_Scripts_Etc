@@ -6,9 +6,6 @@ left = false;
 right = false;
 up = false;
 down = false;
-xSpeed = 0;
-ySpeed = 0;
-lastSprite = sprite;
 
 
 attack = false;
@@ -17,3 +14,7 @@ attack = false;
 currentState = 0;
 lastState = 0;
 
+// movement
+xSpeed = 0;
+ySpeed = 0;
+lastSprite = sprite;

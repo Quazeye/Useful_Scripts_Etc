@@ -6,3 +6,5 @@ y += ySpeed;
 
 // animation
 frame_reset();
+
+animation_control();
