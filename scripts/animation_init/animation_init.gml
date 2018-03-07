@@ -12,5 +12,5 @@ color = c_white;
 alpha = 1;
 
 // animation
-frameSpeed = 1;
+frameSpeed = 0.15;
 facing = 1;

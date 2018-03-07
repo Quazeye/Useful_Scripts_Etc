@@ -1,14 +1,16 @@
 // movement
 if (left)
 {
-	xSpeed = -2;
+	xSpeed = approach(xSpeed, -mSpeed, aSpeed);
 } else if (right)
 {
-	xSpeed = 2;
+	xSpeed = approach(xSpeed, mSpeed, aSpeed);
 } else 
 {
-	xSpeed = 0;
+	xSpeed = approach(xSpeed, 0, dSpeed);
 }
+
+move_wrap(1, 1, sprite_width);
 
 // change to crouch state
 if (down)

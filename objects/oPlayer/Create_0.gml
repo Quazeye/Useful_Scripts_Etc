@@ -18,3 +18,7 @@ lastState = 0;
 xSpeed = 0;
 ySpeed = 0;
 lastSprite = sprite;
+
+aSpeed = 0.2;
+dSpeed = 0.5;
+mSpeed = 2;
